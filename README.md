@@ -4,7 +4,7 @@
 - 💞️ Actively seeking collaboration opportunities in web development to develop ideas in the same way.
 - 📫 I’m interested in reaching out to engage in discussions about technology and innovation.
 - 😄 Pronouns:Beginner...
-- ⚡ Fun fact: ??...
+- ⚡ True fact : Life is always Netural.
 
 <!---
 Priya004-hub/Priya004-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
