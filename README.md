@@ -1,10 +1,10 @@
-- 👋 Hi,My Self Priya.
-- 👀 I’m interested in "Web Developer".
-- 🌱 I’m currently learning Java...
-- 💞️ Actively seeking collaboration opportunities in web development to develop ideas in the same way.
-- 📫 I’m interested in reaching out to engage in discussions about technology and innovation.
-- 😄 Pronouns:Beginner...
-- ⚡ True fact : Life is always Netural.
+- 👋 Hi, Myself Priya.  
+- 📡 Aspiring Embedded Systems & IoT Engineer with a focus on smart and connected technologies.  
+- 🌱 Currently learning Microcontrollers, Wireless Communication, and Antenna Design for 5G.  
+- 🔍 Exploring opportunities in Embedded Systems, IoT applications, and RF/Antenna Research.  
+- 💡 Passionate about combining electronics, innovation, and problem-solving to create impactful solutions.  
+- 🤝 Open to collaborating on projects related to IoT, Wireless Communication, and Smart Systems.  
+- ⚡ Fun fact: I believe *learning never stops* 🚀  
 
 <!---
 Priya004-hub/Priya004-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
